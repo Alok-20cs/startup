@@ -1,0 +1,29 @@
+body{
+
+	text-align: right;
+	background-image: url(https://www.pandasecurity.com/mediacenter/src/uploads/2016/03/pandasecurity-Who-are-the-most-famous-hackers-in-history.jpg);
+	background-size: cover;
+}	
+p{
+	color: red;
+	text-align: center;
+	border: 5px solid purple;
+	cursor: crosshair;
+}
+p{
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+	font-family: 'Red Rose', cursive;
+}
+li
+{
+	list-style: none;
+	display: inline;
+}
+img{
+
+
+	float: right;
+}
